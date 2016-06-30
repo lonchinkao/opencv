@@ -4,6 +4,14 @@
 #include "cv.h"
 #include "cascadeclassifier.h"
 
+
+/*
+Windows 10 opencv Gif Test
+By lonchinkao
+
+
+*/
+
 using namespace std;
 using namespace cv;
 
